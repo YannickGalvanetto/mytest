@@ -8,7 +8,7 @@ const myConnection = require('express-myconnection')
 const dbOptions = {
   host:'mytest.cybz86vbq3ih.eu-west-3.rds.amazonaws.com',
   user:     "mymaster",
-  password: "mymastertest", 
+  password: "wingestsql2015!", 
   database: "mydata",
   port: 3306
 }
